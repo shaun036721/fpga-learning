@@ -78,10 +78,6 @@ Physical switches were used to control the data inputs and select signal, while 
 
 All eight input combinations were tested to verify correct operation on hardware.
 
-### Hardware Verification
-
-*Insert FPGA testing images here.*
-
 ## What I Learned
 
 Through this project, I gained experience with:
