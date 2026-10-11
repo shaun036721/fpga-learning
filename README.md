@@ -40,7 +40,3 @@ testbenches, FPGA constraints, and documentation.
 
 Generated Vivado build files are generally excluded to keep
 the repository focused on the design and verification work.
-
-## Progress
-
-My ongoing learning progress is documented in [progress.md](progress.md).
