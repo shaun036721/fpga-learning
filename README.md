@@ -20,7 +20,7 @@ circuits to more advanced hardware systems.
 | Project | Description | Status |
 |---------|-------------|--------|
 | [01 - LED](01-led/) | Basic FPGA I/O using a switch and LED | Completed |
-| [02 - Multiplexer](02-mux/) | 2-to-1 MUX with SystemVerilog testbench and FPGA implementation | In Progress |
+| [02 - Multiplexer](02-mux/) | 2-to-1 MUX with SystemVerilog testbench and FPGA implementation | Completed |
 
 ## Learning Objectives
 
